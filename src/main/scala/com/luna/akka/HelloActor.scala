@@ -3,6 +3,7 @@ package com.luna.akka
 import akka.actor.{Actor, ActorSystem, Props}
 
 /**
+  * A class of Actor demo.
   * Created by zehui on 2017/7/14.
   */
 class HelloActor extends Actor {
